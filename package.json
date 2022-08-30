@@ -45,7 +45,7 @@
     "@types/react": "^18.0.0"
   },
   "peerDependencies": {
-    "react": ">=16"
+    "react": ">= 16"
   },
   "dependencies": {
     "smooth-dnd": "0.12.1",
